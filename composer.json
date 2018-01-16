@@ -8,7 +8,6 @@
         "php": ">=7.0",
         "symfony/symfony": "2.8.*, !=2.8.10",
         "doctrine/orm": ">=2.3,<2.4-dev",
-        "oro/ui-bundle": "dev-master"
     },
     "autoload": {
         "psr-0": {
